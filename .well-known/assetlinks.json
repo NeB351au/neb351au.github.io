@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.neb351au.twa",
+        "sha256_cert_fingerprints": ["6A:01:F2:43:31:9F:D6:A1:93:F0:8A:24:05:CD:29:C8:2B:F2:37:F9:03:C6:9A:B3:E2:52:BD:3C:78:3E:FD:9E"]
+      }
+    }]
 
